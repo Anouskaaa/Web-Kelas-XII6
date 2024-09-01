@@ -84,7 +84,7 @@ const Schedule = () => {
                             }`}
                             data-aos="fade-up"
                             data-aos-duration={600 + index * 100}>
-                            <div className="text-base font-medium">{piketName}</div>
+                            <div className="text-base font-medium">Coming Soon</div>
                         </div>
                     ))
                 ) : (

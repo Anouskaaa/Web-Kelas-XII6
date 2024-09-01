@@ -8,23 +8,23 @@ const Home = () => {
 		<div className="text-white px-[10%]" id="Home">
 			<Navbar />
 			<div className="lg:hidden">
-				<div className="font-bold text-5xl text-center py-20 ">XII TKJ 3</div>
+				<div className="font-bold text-5xl text-center py-20 ">XII 6 (C1 Clan)</div>
 				<div
 					className="border-2 flex justify-between px-10 text-4xl font-bold py-2 relative"
 					id="TotalSiswa">
 					<div id="AngkaGradientBlue" className="flex items-center justify-center ">
-						25
+						26
 					</div>
 					<div className="">
 						<span id="AngkaGradientBlue" className="text-5xl">
 							3
 						</span>
 						<span id="AngkaGradientPink" className="text-5xl">
-							7
+							6
 						</span>
 					</div>
 					<div id="AngkaGradientPink" className="flex items-center justify-center">
-						12
+						10
 					</div>
 				</div>
 
@@ -33,8 +33,8 @@ const Home = () => {
 						<BoxClassIg />
 					</div>
 					<div className="grid gap-2 md:gap-0 md:grid-cols-1">
-						<BoxOldWeb />
 						<BoxTextAnonim />
+
 					</div>
 				</div>
 			</div>
@@ -47,7 +47,7 @@ const Home = () => {
 						WELCOME
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO XII TKJ 3
+						TO XII 6 (C1 Clan)
 					</h6>
 				</div>
 			</div>
